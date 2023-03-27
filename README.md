@@ -1,1 +1,2 @@
-# domino_game
+# Project Description
+Java Logic for PVP Game
